@@ -1,0 +1,23 @@
+{
+  "name": "zombiegame",
+  "version": "1.0.0",
+  "description": "created a zombie game using javascript and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baronvontoby/zombiegame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baronvontoby/zombiegame/issues"
+  },
+  "homepage": "https://github.com/baronvontoby/zombiegame#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
